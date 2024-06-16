@@ -1,6 +1,6 @@
 Hello, I'm Gooball
 
-I'm currently learning Java 
+I aim to use my repos as a pseudo portfolio!
 
 <!---
 ImGooball/ImGooball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
